@@ -13,4 +13,4 @@ An interactive Website Traffic Analysis Dashboard built using Python, Pandas, Ma
 - Engaged vs. non-engaged sessions
 - Traffic analysis by hour and channel
 
-**Project Type:** Data Analytics and Data Visualization
+**Project Type:** Data Analytics and Data Visualization.
